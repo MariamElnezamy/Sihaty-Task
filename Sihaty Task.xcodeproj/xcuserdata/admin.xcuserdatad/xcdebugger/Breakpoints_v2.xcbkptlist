@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0127D295-4E3A-454E-9669-CBE1F1A0AFF4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "118FC0D0-5006-4E89-9F24-D20B0674AEA6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sihaty Task/RepositoryViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "onReceive(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "118FC0D0-5006-4E89-9F24-D20B0674AEA6 - 3d638448bbdba130"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sihaty_Task.RepositoriesViewModel.fetchNextPageIfPossible() -&gt; ()"
+                  moduleName = "Sihaty Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Downloads/Sihaty-Task-main/Sihaty%20Task/RepositoryViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "118FC0D0-5006-4E89-9F24-D20B0674AEA6 - e632401905379af5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #2 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in implicit closure #1 (Sihaty_Task.RepositoriesViewModel) -&gt; (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in Sihaty_Task.RepositoriesViewModel.fetchNextPageIfPossible() -&gt; ()"
+                  moduleName = "Sihaty Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Downloads/Sihaty-Task-main/Sihaty%20Task/RepositoryViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
